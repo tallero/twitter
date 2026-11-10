@@ -23,8 +23,8 @@
 
 # Twitter
 
-Twitter is a mathematically proven uncensorable social
-network platform on which posts are undeletable which
+Twitter is a mathematically proven uncensorable and undeletable
+social network platform on which posts are undeletable which
 has been written and published by
 [Pellegrino Prevete](
   https://github.com/tallero)
@@ -42,12 +42,11 @@ blockchains.
 
 The branch you are currently browsing (`public`)
 does not contain neither the Twitter application
-clients nor the Solidity smart contract source code.
-
-This `public` branch mainly exists for search engines
+clients nor the Solidity smart contract source code:
+it mainly exists for search engines
 to have available any information about Twitter at all because
-none of them include in its results data from blockchains
-nor it has support for parsing
+none of them are able to read data from blockchains
+nor they have support support for parsing
 [`evmfs://`](
   https://github.com/themartiancompany/evmfs)
 URIs (links).
@@ -83,10 +82,7 @@ All of the source code is only published on the
 so it can't possibly be taken down
 by anybody forever.
 
-To install it from
-[Ur](
-  https://github.com/themartiancompany/ur)
-just type
+To install it from Ur just type
 
 ```bash
 ur \
