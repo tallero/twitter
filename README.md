@@ -76,8 +76,9 @@ Twitter Bash application is published on the
 user repository and application store as
 `twitter`.
 
-The protocol set in place by the smart contracts
-is also called Ethereum mail.
+The protocol components set in place by the smart
+contracts are components of the Ethereum mail
+protocol.
 
 An Ethereum mail address or an *eth-mail* is an
 [OpenPGP on Ethereum](
