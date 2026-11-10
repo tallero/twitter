@@ -80,7 +80,7 @@ The protocol components set in place by the smart
 contracts are components of the Ethereum mail
 protocol.
 
-An Ethereum mail address or an *eth-mail* is an
+An Ethereum mail address or an *eth-mail address* is an
 [OpenPGP on Ethereum](
   https://github.com/themartiancompany/evm-gnupg),
 username, so it has the same form of an e-mail:
