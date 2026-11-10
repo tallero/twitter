@@ -79,8 +79,6 @@ user repository and application store as
 Documentation for the `twitter` command
 is included in the source code.
 
-
-
 All of the source code is only published on the
 [Ethereum Virtual Machine File System](
   https://github.com/themartiancompany/evmfs)
