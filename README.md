@@ -42,7 +42,7 @@ blockchain networks.
 
 The branch you are currently browsing (`public`)
 does not contain neither the Twitter application
-clients nor the Solidity smart contract source code:
+clients nor the Solidity smart contracts source code:
 it mainly exists for search engines
 to have available any information about Twitter at all because
 none of them are able to read data from blockchains
@@ -52,7 +52,7 @@ nor they have support support for parsing
 URIs (links).
 
 Reference Twitter clients published by The Martian Company
-(i.e. the twitter application) are
+(i.e. the twitter applications and its EVMFS website) are
 [LibEVM](
   https://github.com/themartiancompany/libevm)
 applications.
@@ -75,6 +75,26 @@ Twitter Bash application is published on the
   https://github.com/themartiancompany/ur)
 user repository and application store as
 `twitter`.
+
+The protocol set in place by the smart contracts
+is also called Ethereum mail.
+
+An Ethereum mail address is an
+[OpenPGP on Ethereum](
+  https://github.com/themartiancompany/evm-gnupg),
+so it has this form:
+
+```
+username@address
+```
+
+where `address` is either an EOA fingerprint
+(a wallet or a smart contract address) or a
+[seed address](
+  https://github.com/themartiancompany/seed-system),
+while `username` is an arbitrary username,
+in the encoding format supported by the specification
+version.
 
 Documentation for the `twitter` command
 is included in the source code.
