@@ -52,7 +52,7 @@ nor they have support support for parsing
 URIs (links).
 
 Reference Twitter clients published by The Martian Company
-(i.e. the twitter applications and its EVMFS website) are
+(i.e. the Twitter applications and its EVMFS website) are
 [LibEVM](
   https://github.com/themartiancompany/libevm)
 applications.
