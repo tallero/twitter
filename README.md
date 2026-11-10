@@ -38,7 +38,7 @@ Twitter posts' uncensorability and
   https://github.com/themartiancompany/evmfs-docs/Undeletability.md)
 are granted by the fact the smart contracts used
 by the clients have been published on major Ethereum
-blockchains.
+blockchain networks.
 
 The branch you are currently browsing (`public`)
 does not contain neither the Twitter application
