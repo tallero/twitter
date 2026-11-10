@@ -79,10 +79,10 @@ user repository and application store as
 The protocol set in place by the smart contracts
 is also called Ethereum mail.
 
-An Ethereum mail address is an
+An Ethereum mail address or an *eth-mail* is an
 [OpenPGP on Ethereum](
   https://github.com/themartiancompany/evm-gnupg),
-so it has this form:
+username, so it has the same form of an e-mail:
 
 ```
 username@address
@@ -95,6 +95,9 @@ where `address` is either an EOA fingerprint
 while `username` is an arbitrary username,
 in the encoding format supported by the specification
 version.
+
+Twitter application clients are Ethereum mail
+clients.
 
 Documentation for the `twitter` command
 is included in the source code.
