@@ -89,6 +89,13 @@ ur \
   twitter
 ```
 
+Of course Twitter applications supports
+[DogeOS](
+  https://github.com/themartiancompany/dogeos),
+but not the Dogecoin's Ethereum layer
+written by MyDoge because
+*that's not an operating system*.
+
 ### License
 
 This document, as well as Twitter smart contracts and
