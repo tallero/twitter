@@ -108,7 +108,8 @@ All of the source code is only published on the
 so it can't possibly be taken down
 by anybody forever.
 
-To install it from Ur just type
+To install the Twitter application
+from Ur just type
 
 ```bash
 ur \
