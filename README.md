@@ -118,9 +118,11 @@ ur \
   twitter
 ```
 
-Of course Twitter applications supports
+Of course Twitter reference applications support
 [DogeOS](
   https://github.com/themartiancompany/dogeos),
+(which implies they are cross-platform and compatible
+with Android, Arch Linux and Windows)
 but not the Dogecoin's Ethereum layer
 written by MyDoge because
 *that's not an operating system*.
