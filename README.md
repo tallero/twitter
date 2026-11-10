@@ -79,11 +79,22 @@ user repository and application store as
 The protocol set in place by the smart contracts
 is also called Ethereum mail.
 
-An Ethereum mail address has this form:
+An Ethereum mail address is an
+[OpenPGP on Ethereum](
+  https://github.com/themartiancompany/evm-gnupg),
+so it has this form:
 
 ```
 username@address
 ```
+
+where `address` is either an EOA fingerprint
+(a wallet or a smart contract address) or a
+[seed address](
+  https://github.com/themartiancompany/seed-system),
+while `username` is an arbitrary username,
+in the encoding format supported by the specification
+version.
 
 All of the source code is only published on the
 [Ethereum Virtual Machine File System](
