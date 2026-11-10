@@ -83,7 +83,10 @@ All of the source code is only published on the
 so it can't possibly be taken down
 by anybody forever.
 
-To install it from Ur just type
+To install it from
+[Ur](
+  https://github.com/themartiancompany/ur)
+just type
 
 ```bash
 ur \
