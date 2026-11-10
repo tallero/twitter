@@ -53,7 +53,7 @@ explorers nor they have support support for parsing
 URIs (links).
 
 Reference Twitter clients published by The Martian Company
-(i.e. the twitter application) are
+(i.e. the twitter applications and EVMFS website) are
 [LibEVM](
   https://github.com/themartiancompany/libevm)
 applications.
