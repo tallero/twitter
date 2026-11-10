@@ -109,17 +109,6 @@ ur \
   twitter
 ```
 
-A version of the Bash Twitter client
-has been set for sale as a joke
-at the Google&Paypal's
-*Seamless transactions, infinite possibilities*
-hackaton as part of
-[its presentation](
-  https://github.com/themartiancompany/seamless-transactions-infinite-possibilities-hackaton).
-
-
-[SeaInfinite possibilities
-
 ### License
 
 This document, as well as Twitter smart contracts and
