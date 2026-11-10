@@ -70,11 +70,16 @@ been working flawlessly for two years now.
 The Javascript implementation will probably
 be released as stable next year.
 
-Twitter application is published on the
+Twitter Bash application is published on the
 [Ur](
   https://github.com/themartiancompany/ur)
 user repository and application store as
 `twitter`.
+
+Documentation for the `twitter` command
+is included in the source code.
+
+
 
 All of the source code is only published on the
 [Ethereum Virtual Machine File System](
