@@ -44,9 +44,10 @@ The branch you are currently browsing (`public`)
 does not contain neither the Twitter application
 clients nor the Solidity smart contracts source code:
 it mainly exists for search engines
-to have available any information about Twitter at all because
-none of them are able to read data from blockchains
-nor they have support support for parsing
+to have available any information at all about Twitter
+because none of them are able to read data from
+blockchains networks neither directly neither through
+explorers nor they have support support for parsing
 [`evmfs://`](
   https://github.com/themartiancompany/evmfs)
 URIs (links).
