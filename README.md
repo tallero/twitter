@@ -82,8 +82,8 @@ protocol.
 
 An Ethereum mail address or an *eth-mail address* is an
 [OpenPGP on Ethereum](
-  https://github.com/themartiancompany/evm-gnupg),
-username, so it has the same form of an e-mail address:
+  https://github.com/themartiancompany/evm-gnupg)
+username so it has the same form of an e-mail address:
 
 ```
 username@address
