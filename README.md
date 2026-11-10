@@ -89,7 +89,8 @@ username, so it has the same form of an e-mail:
 username@address
 ```
 
-where `address` is either an EOA fingerprint
+where instead of a domain you have an `address`
+which is either an EOA fingerprint
 (a wallet or a smart contract address) or a
 [seed address](
   https://github.com/themartiancompany/seed-system),
