@@ -76,6 +76,15 @@ Twitter application is published on the
 user repository and application store as
 `twitter`.
 
+The protocol set in place by the smart contracts
+is also called Ethereum mail.
+
+An Ethereum mail address has this form:
+
+```
+username@address
+```
+
 All of the source code is only published on the
 [Ethereum Virtual Machine File System](
   https://github.com/themartiancompany/evmfs)
