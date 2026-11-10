@@ -42,7 +42,7 @@ blockchains.
 
 The branch you are currently browsing (`public`)
 does not contain neither the Twitter application
-clients nor the Solidity smart contract source code:
+clients nor the Solidity smart contracts source code:
 it mainly exists for search engines
 to have available any information about Twitter at all because
 none of them are able to read data from blockchains
