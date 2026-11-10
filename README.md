@@ -83,7 +83,7 @@ protocol.
 An Ethereum mail address or an *eth-mail address* is an
 [OpenPGP on Ethereum](
   https://github.com/themartiancompany/evm-gnupg),
-username, so it has the same form of an e-mail:
+username, so it has the same form of an e-mail address:
 
 ```
 username@address
@@ -91,7 +91,7 @@ username@address
 
 where instead of a domain you have an `address`
 which is either an EOA fingerprint
-(a wallet or a smart contract address) or a
+(i.e. a wallet or a smart contract address) or a
 [seed address](
   https://github.com/themartiancompany/seed-system),
 while `username` is an arbitrary username,
